@@ -65,7 +65,6 @@ expense-tracker-mern/
 
 ```
 git clone https://github.com/Dev0ps404/Personal-Expense-Tracker
-cd expense-tracker-mern
 ```
 
 ---
