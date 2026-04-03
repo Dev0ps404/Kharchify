@@ -15,7 +15,7 @@ Designed especially for students to manage and analyze their daily expenses with
 * 🧾 Expense Categories (Food, Travel, Bills, etc.)
 * 🔍 Search & Filter functionality
 * 🌙 Dark Mode support
-* 📱 Responsive UI (mobile-friendly)
+* 
 
 ---
 
